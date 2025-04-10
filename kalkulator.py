@@ -1,9 +1,18 @@
 #zadanie 1
 
+def get_number(prompt):
+    while True:
+        try:
+            return float(input(prompt))
+        except ValueError:
+            print("Nie wprowadzono liczby. Spróbuj ponownie")
+
+
 def calculator():
-    a = float(input("Podaj proszę piewszą liczbę: "))
-    b = float(input("Podaj proszę drugą liczbę: "))
-    operation = input("Jaką operację chcesz wykonać? (wybierz +,=,*,/)")
+    a = get_number(("Podaj proszę piewszą liczbę: "))
+    b = get_number(("Podaj proszę drugą liczbę: "))
+   
+    operation = input("Jaką operację chcesz wykonać? (wybierz +,-,*,/)")
 
     if operation == "+":
         print(f"Wynik: {a + b}")
@@ -15,7 +24,7 @@ def calculator():
         if b != 0:
             print(f"Wynik: {a / b}")
         else:
-            print
+            print("Operacja niewykonalna")
     else:
         print("Wybrano nieprawną operację, spróbuj ponownie")
 
