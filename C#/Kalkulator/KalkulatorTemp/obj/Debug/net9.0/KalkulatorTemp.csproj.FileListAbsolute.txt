@@ -1,0 +1,15 @@
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/bin/Debug/net9.0/KalkulatorTemp
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/bin/Debug/net9.0/KalkulatorTemp.deps.json
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/bin/Debug/net9.0/KalkulatorTemp.runtimeconfig.json
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/bin/Debug/net9.0/KalkulatorTemp.dll
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/bin/Debug/net9.0/KalkulatorTemp.pdb
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.AssemblyInfoInputs.cache
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.AssemblyInfo.cs
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.csproj.CoreCompileInputs.cache
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.sourcelink.json
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.dll
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/refint/KalkulatorTemp.dll
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.pdb
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/KalkulatorTemp.genruntimeconfig.cache
+/Users/a.musialke/OOP_WSB/KalkulatorTemp/obj/Debug/net9.0/ref/KalkulatorTemp.dll
