@@ -1,4 +1,4 @@
-#zadanie 3 w python
+#zadanie 3
 
 def get_number(prompt):
     while True:
